@@ -23,10 +23,13 @@ h3 {
 }
 
 .games {
-  margin-left: 34%;
+  margin-left: 42%;
   color: #FF5403;
   background-color: #000000;
 
+}
+.head {
+  margin-left: 25%;
 }
 
 .links {
