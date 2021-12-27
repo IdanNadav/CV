@@ -1,0 +1,38 @@
+body {
+  background-color: #444444;
+  text-align: center;
+  color: #EDEDED;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 30%;
+  border-color: #DA0037;
+  border-width: 5px;
+}
+
+h3 {
+  text-align: center;
+}
+
+.games {
+  margin-left: 35%;
+  color: #FF5403;
+  background-color: #000000;
+}
+
+.head {
+  cellspacing: 20px;
+}
+
+.links {
+  margin-left: 43%;
+}
+
+a {
+  color: #FFF323;
+}
+
+th {
+  color: #FFCA03;
+}
